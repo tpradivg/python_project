@@ -1,1 +1,10 @@
 Pomodoro Study pattern as a web app to help students/learners, plan their study time. 
+
+The Pomodoro Technique
+------------------------
+Identify a task or tasks that you need to complete.
+Set a timer for 25 minutes.
+Work on a task with no distractions.
+When the alarm sounds, take a 5-minute break.
+Repeat the process 3 more times.
+Take a longer 30-minute break and start again.
