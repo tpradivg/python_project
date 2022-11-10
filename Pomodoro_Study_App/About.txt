@@ -1,0 +1,1 @@
+Pomodoro Study pattern as a web app to help students/learners, plan their study time. 
